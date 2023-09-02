@@ -1,5 +1,7 @@
 # المپیاد دانشجویی مهندسی کامپیوتر
 [![en](https://img.shields.io/badge/click_to_README-English-red.svg)](https://github.com/EnAnsari/student-olympiad/blob/main/README-EN.md)
+[![dl](https://img.shields.io/badge/download_zip-18.0MB-yellow.svg)](https://github.com/EnAnsari/student-olympiad/archive/refs/heads/main.zip)
+[![lc](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/EnAnsari/student-olympiad/blob/main/LICENSE)
 <br>
 توی این مخزن میتونید اطلاعات و منابع و نمونه سوال‌های خوبی از المپیاد دانشجویی مهندسی کامپیوتر پیدا کنید. در کل اگر داوطلب المپیاد دانشجویی توی این رشته هستید این مخزن کمک زیادی به شما خواهد کرد.
 <br>
