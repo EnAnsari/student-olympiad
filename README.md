@@ -25,13 +25,14 @@
 <h5>
 فهرست مطالب:
   <ul>
-    <li><a href='https://github.com/EnAnsari/student-olympiad/edit/main/README.md#%DA%86%D8%AC%D9%88%D8%B1%DB%8C-%D8%AA%D9%88-%D8%A7%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF-%D8%B4%D8%B1%DA%A9%D8%AA-%DA%A9%D9%86%DB%8C%D9%85'>چجوری تو این المپیاد شرکت کنیم؟</a></li>
-    <li><a href='https://github.com/EnAnsari/student-olympiad/edit/main/README.md#%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%DB%8C-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1'>به چه دردی میخوره شرکت در المپیاد</a></li>
-    <li><a href='https://github.com/EnAnsari/student-olympiad/edit/main/README.md#%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%D8%A7%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%85%D9%88%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF'>چی بخونیم برای المپیاد؟</a></li>
-    <li><a href='https://github.com/EnAnsari/student-olympiad/edit/main/README.md#%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%D8%A7%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%85%D9%88%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF'>حال و هوای سوالات چطوره؟</a></li>
-    <li><a href='https://github.com/EnAnsari/student-olympiad/edit/main/README.md#%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%DB%8C-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1'>چطوری بخونیم؟</a></li>
-    <li><a href='https://github.com/EnAnsari/student-olympiad/edit/main/README.md#%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%D8%A7%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%85%D9%88%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF'>حال و هوای خود المپیاد چطوریه؟</a></li>
-    <li><a href='https://github.com/EnAnsari/student-olympiad/edit/main/README.md#%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%D8%A7%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%85%D9%88%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF'>نتایج از کجا اعلام میشه؟</a></li>
+    <li><a href='https://github.com/EnAnsari/student-olympiad#%DA%86%D8%AC%D9%88%D8%B1%DB%8C-%D8%AA%D9%88-%D8%A7%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF-%D8%B4%D8%B1%DA%A9%D8%AA-%DA%A9%D9%86%DB%8C%D9%85'>چجوری تو این المپیاد شرکت کنیم؟</a></li>
+    <li><a href='https://github.com/EnAnsari/student-olympiad#%D8%A7%D8%B5%D9%84%D8%A7-%DA%86%D9%87-%D9%81%D8%A7%DB%8C%D8%AF%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B1%D9%87'>به چه دردی میخوره شرکت در المپیاد</a></li>
+    <li><a href='https://github.com/EnAnsari/student-olympiad#%DA%86%DB%8C-%D8%A8%D8%AE%D9%88%D9%86%D9%85-%D8%AD%D8%A7%D9%84%D8%A7'>چی بخونیم برای المپیاد؟</a></li>
+    <li><a href='https://github.com/EnAnsari/student-olympiad#%D8%AD%D8%A7%D9%84-%D9%88-%D9%87%D9%88%D8%A7%DB%8C-%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA-%DA%86%D8%B7%D9%88%D8%B1%D9%87'>حال و هوای سوالات چطوره؟</a></li>
+    <li><a href='https://github.com/EnAnsari/student-olympiad#%DA%86%D8%B7%D9%88%D8%B1%DB%8C-%D8%A8%D8%AE%D9%88%D9%86%DB%8C%D9%85'>چطوری بخونیم؟</a></li>
+    <li><a href='https://github.com/EnAnsari/student-olympiad#%D8%AD%D8%A7%D9%84-%D9%88-%D9%87%D9%88%D8%A7%DB%8C-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF'>حال و هوای خود المپیاد چطوریه؟ (هم مرحله یک هم مرحله دو)</a></li>
+    <li><a href='https://github.com/EnAnsari/student-olympiad#%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%A7%D8%B2-%DA%A9%D8%AC%D8%A7-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D9%85%DB%8C%D8%B4%D9%87'>نتایج از کجا اعلام میشه؟</a></li>
+    <li><a href='https://github.com/EnAnsari/student-olympiad#-%DA%86%D9%86%D8%AF-%D8%AA%D8%A7-%D8%B3%D9%88%D8%A7%D9%84-%D9%86%D9%85%D9%88%D9%86%D9%87-%D8%A7%D8%B2-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF-%DB%B1%DB%B3%DB%B9%DB%B8-%DA%A9%D9%87-%DB%8C%D8%A7%D8%AF%D9%85%D9%87'>چند تا سوال از المپیاد ۹۸</a></li>
   </ul>
 </h5><br>
 
